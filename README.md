@@ -1,4 +1,4 @@
-<h1> Hello Guys < Developers/ ><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1> Hello Guys < Developers/ ></h1>
   
 #### Coding And Linux Lover
 
